@@ -3,7 +3,7 @@ This is a implementtion of FedAvg in paper [Communication-Efficient Learning of 
 
 # How to run the codes?
 
-At first, you should creat two dir called 'logs' and 'checkpoints', then you can cd into 'src', and run FedAvg on iid cifar10 and mnist
+At first, you should creat two dirs called 'logs' and 'checkpoints', then you can cd into 'src', and run FedAvg on iid cifar10 and mnist
 ```shell
 python3 federated_main.py --model=cnn --dataset=cifar --iid=1 --epochs=300 --lr=0.01 --local_ep=5 --local_bs=32
 
