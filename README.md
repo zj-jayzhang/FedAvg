@@ -1,5 +1,5 @@
 # FedAvg
-This is a implementtion of FedAvg in paper [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629).
+This is a implemention of FedAvg in paper [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629).
 
 # How to run the codes?
 
