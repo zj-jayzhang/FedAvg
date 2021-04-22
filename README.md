@@ -24,3 +24,8 @@ For best test acc：
 | ------------- | ------------- |------------ |
 | IID  | 68.70%  | 98.87% |
 | Non-IID  | 68.11%  | 98.05%|
+
+
+test acc curve(for cifar10 both in iid and noniid setting):
+
+![企业微信截图_20210422101626](https://user-images.githubusercontent.com/33173674/115645971-e97f9e00-a353-11eb-9fad-8b5e18fc24ea.png)
