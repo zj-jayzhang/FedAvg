@@ -18,9 +18,9 @@ python3 federated_main.py --model=cnn --dataset=cifar --iid=0 --epochs=300 --lr=
 python3 federated_main.py --model=cnn --dataset=mnist --iid=0 --epochs=100 --lr=0.01 --local_ep=5 --local_bs=32
 
 ```
-For test acc：
+For best test acc：
 
 |- |CIFAR10  |MNIST |
 | ------------- | ------------- |------------ |
 | IID  | 68.70%  | 98.87% |
-| Non-IID  | 63.78%  | 98.05%|
+| Non-IID  | 68.11%  | 98.05%|
